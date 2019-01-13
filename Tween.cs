@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+// Unity Tween API
+// by Andrew900460
+
+using UnityEngine;
 
 public class Tween {
     public float startValue;
